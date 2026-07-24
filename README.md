@@ -19,7 +19,7 @@
 * 💻 Currently working on: **Web & Software Development Projects**
 * 🛠️ Main Tech Stack: **Python, SQL, HTML/CSS, JavaScript**
 * 🎯 Focus: **Building responsive websites, database architectures, and clean backend logic**
-* 📬 How to reach me: **[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox ]**
+* 📬 How to reach me: **[Ahmedararu2001@gmail.com ]**
 
 ---
 
